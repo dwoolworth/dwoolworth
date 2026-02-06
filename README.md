@@ -2,7 +2,7 @@
 
 Creator and founder of [MnemoShare](https://mnemoshare.com) — a HIPAA-compliant, HITRUST-certifiable MFT platform. I build software that handles sensitive data the right way: application-layer encryption, audit logging, and compliance baked in from day one.
 
-I work primarily in **Go**, **Rust**, **TypeScript**, and **React**, with a strong focus on Kubernetes, infrastructure automation, and security tooling in heavily regulated environments.
+I work primarily in **Go**, **Rust**, **C/C++**, **TypeScript**, and **React**, with a strong focus on Kubernetes, infrastructure automation, and security tooling in heavily regulated environments.
 
 ---
 
