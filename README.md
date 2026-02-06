@@ -1,8 +1,8 @@
-### Hey, I'm Derrick
+### Hello, I'm Derrick!
 
-Founder of [MnemoShare](https://mnemoshare.com) — a HIPAA-compliant, HITRUST-certified secure file transfer platform. I build software that handles sensitive data the right way: application-layer encryption, audit logging, and compliance baked in from day one.
+Creator and founder of [MnemoShare](https://mnemoshare.com) — a HIPAA-compliant, HITRUST-certifiable MFT platform. I build software that handles sensitive data the right way: application-layer encryption, audit logging, and compliance baked in from day one.
 
-I work primarily in **Go**, **TypeScript**, and **React**, with a strong focus on Kubernetes, infrastructure automation, and security tooling.
+I work primarily in **Go**, **Rust**, **TypeScript**, and **React**, with a strong focus on Kubernetes, infrastructure automation, and security tooling in heavily regulated environments.
 
 ---
 
@@ -14,7 +14,7 @@ I work primarily in **Go**, **TypeScript**, and **React**, with a strong focus o
 
 ### Notable Contributions
 
-**[llama.cpp](https://github.com/ggerganov/llama.cpp)** — Built the authentication process for communicating with Hugging Face model repositories via tokens, enabling seamless model downloads in the LLM inference engine.
+**[llama.cpp](https://github.com/ggerganov/llama.cpp)** — Built authentication token support for communicating with Hugging Face model repositories via tokens, enabling seamless model downloads in the LLM inference engine.
 
 **[linux-tegra-4.9](https://github.com/dwoolworth/linux-tegra-4.9)** — Fixed and brought iSCSI drivers online for NVIDIA Tegra/Jetson kernel, enabling NAS storage connectivity for edge computing devices.
 
@@ -22,7 +22,7 @@ I work primarily in **Go**, **TypeScript**, and **React**, with a strong focus o
 
 ### MnemoShare
 
-[MnemoShare](https://mnemoshare.com) enables secure file transfers between organizations with dynamic questionnaire validation, AES-256-GCM encryption, multi-factor authentication, SSO support, and ClamAV virus scanning. Built for healthcare, legal, and financial services.
+[MnemoShare](https://mnemoshare.com) enables secure file transfers between organizations with dynamic questionnaire validation, AES-256-GCM encryption, Hardware Security Key mTLS, multi-factor authentication, SSO support, and ClamAV virus scanning. Built for healthcare, legal, and financial services.
 
 [![Website](https://img.shields.io/badge/mnemoshare.com-Visit-blue?style=flat-square)](https://mnemoshare.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwoolworth/)
